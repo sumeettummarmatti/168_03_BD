@@ -20,7 +20,7 @@ The single most critical configuration is `advertised.listeners` in the `config/
 
 # This MUST be uncommented and set to the ZeroTier IP
 advertised.listeners=PLAINTEXT://<YOUR_ZEROTIER_IP_HERE>:9092
-
+```
 
 ## Execution Steps
 
@@ -49,4 +49,5 @@ advertised.listeners=PLAINTEXT://<YOUR_ZEROTIER_IP_HERE>:9092
 
 To verify that the broker and topics are running correctly:
 -   **Check running processes:** `jps -l` (should show `kafka.Kafka` and `QuorumPeerMain`)
+
 -   **List topics:** `./bin/kafka-topics.sh --list --bootstrap-server localhost:9092` (should show `tasks`, `results`, `heartbeats`)
