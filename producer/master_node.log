@@ -1,0 +1,531 @@
+2025-11-08 18:53:18,987 - __main__ - INFO - Metadata database initialized at master_metadata.db
+2025-11-08 18:53:18,992 - __main__ - INFO - Kafka manager initialized
+2025-11-08 18:53:19,088 - __main__ - INFO - Master node started successfully
+2025-11-08 18:53:19,088 - __main__ - INFO - Starting result consumer task
+2025-11-08 18:53:20,088 - __main__ - INFO - Starting heartbeat consumer task
+2025-11-08 18:53:28,100 - __main__ - INFO - WebSocket client connected
+2025-11-08 19:00:04,702 - __main__ - WARNING - WebSocket error: sent 1012 (service restart); no close frame received
+2025-11-08 19:00:04,702 - __main__ - INFO - WebSocket client disconnected
+2025-11-08 19:00:05,704 - __main__ - INFO - Master node shutting down
+2025-11-08 19:00:13,509 - __main__ - INFO - Metadata database initialized at master_metadata.db
+2025-11-08 19:00:13,515 - __main__ - INFO - Kafka manager initialized
+2025-11-08 19:00:13,619 - __main__ - INFO - Master node started successfully
+2025-11-08 19:00:13,619 - __main__ - INFO - Starting result consumer task
+2025-11-08 19:00:14,621 - __main__ - INFO - Starting heartbeat consumer task
+2025-11-08 19:00:21,741 - __main__ - INFO - WebSocket client connected
+2025-11-08 19:00:42,172 - __main__ - WARNING - WebSocket error: received 1001 (going away); then sent 1001 (going away)
+2025-11-08 19:00:42,172 - __main__ - INFO - WebSocket client disconnected
+2025-11-08 19:00:42,238 - __main__ - INFO - WebSocket client connected
+2025-11-08 19:01:00,730 - __main__ - INFO - Image validated: 1024x1024
+2025-11-08 19:01:00,731 - __main__ - INFO - Starting job b5b2bb9c-a2d8-438e-8f71-8d2d69fd80ef for file wp4471357-1024x1024-wallpapers.jpg
+2025-11-08 19:01:00,731 - __main__ - INFO - Creating 2x2 = 4 tiles
+2025-11-08 19:01:01,087 - __main__ - INFO - Successfully created 4 tiles for job b5b2bb9c-a2d8-438e-8f71-8d2d69fd80ef
+2025-11-08 19:01:01,091 - __main__ - INFO - Job b5b2bb9c-a2d8-438e-8f71-8d2d69fd80ef created with 4 tiles
+2025-11-08 19:01:01,104 - __main__ - INFO - Job b5b2bb9c-a2d8-438e-8f71-8d2d69fd80ef created with 4 tiles
+2025-11-08 19:01:04,767 - __main__ - INFO - All 4 tasks distributed for job b5b2bb9c-a2d8-438e-8f71-8d2d69fd80ef
+2025-11-08 19:01:06,373 - __main__ - INFO - Received processed tile: b5b2bb9c-a2d8-438e-8f71-8d2d69fd80ef_tile_0
+2025-11-08 19:01:06,481 - __main__ - INFO - Received processed tile: b5b2bb9c-a2d8-438e-8f71-8d2d69fd80ef_tile_1
+2025-11-08 19:01:07,124 - __main__ - INFO - Received processed tile: b5b2bb9c-a2d8-438e-8f71-8d2d69fd80ef_tile_2
+2025-11-08 19:01:08,229 - __main__ - INFO - Received processed tile: b5b2bb9c-a2d8-438e-8f71-8d2d69fd80ef_tile_3
+2025-11-08 19:01:08,231 - __main__ - INFO - Reconstructing image: 1024x1024 from 4 tiles
+2025-11-08 19:01:08,290 - __main__ - INFO - Image reconstruction completed successfully
+2025-11-08 19:01:08,511 - __main__ - INFO - Job b5b2bb9c-a2d8-438e-8f71-8d2d69fd80ef status updated to completed
+2025-11-08 19:01:08,512 - __main__ - INFO - Job b5b2bb9c-a2d8-438e-8f71-8d2d69fd80ef completed successfully
+2025-11-08 19:01:25,449 - __main__ - WARNING - WebSocket error: received 1001 (going away); then sent 1001 (going away)
+2025-11-08 19:01:25,450 - __main__ - INFO - WebSocket client disconnected
+2025-11-08 19:01:29,658 - __main__ - INFO - WebSocket client connected
+2025-11-08 19:04:51,612 - __main__ - INFO - WebSocket client connected
+2025-11-08 19:04:51,613 - __main__ - WARNING - WebSocket error: received 1001 (going away); then sent 1001 (going away)
+2025-11-08 19:04:51,613 - __main__ - INFO - WebSocket client disconnected
+2025-11-08 19:05:23,354 - __main__ - INFO - Image validated: 1024x1024
+2025-11-08 19:05:23,354 - __main__ - INFO - Starting job 032a3107-78e4-4a3e-a296-db10b9de001f for file wp4471373-1024x1024-wallpapers.jpg
+2025-11-08 19:05:23,357 - __main__ - INFO - Creating 2x2 = 4 tiles
+2025-11-08 19:05:23,593 - __main__ - INFO - Successfully created 4 tiles for job 032a3107-78e4-4a3e-a296-db10b9de001f
+2025-11-08 19:05:23,599 - __main__ - INFO - Job 032a3107-78e4-4a3e-a296-db10b9de001f created with 4 tiles
+2025-11-08 19:05:23,618 - __main__ - INFO - Job 032a3107-78e4-4a3e-a296-db10b9de001f created with 4 tiles
+2025-11-08 19:05:27,735 - __main__ - INFO - All 4 tasks distributed for job 032a3107-78e4-4a3e-a296-db10b9de001f
+2025-11-08 19:19:15,696 - __main__ - WARNING - WebSocket error: received 1001 (going away); then sent 1001 (going away)
+2025-11-08 19:19:15,696 - __main__ - INFO - WebSocket client disconnected
+2025-11-08 19:19:16,698 - __main__ - INFO - WebSocket client connected
+2025-11-08 19:21:06,813 - __main__ - INFO - Image validated: 1024x1024
+2025-11-08 19:21:06,814 - __main__ - INFO - Starting job 82ecbbec-6e46-49ac-b373-c79c46bd9bb2 for file wp4471392-1024x1024-wallpapers.jpg
+2025-11-08 19:21:06,814 - __main__ - INFO - Creating 2x2 = 4 tiles
+2025-11-08 19:21:07,287 - __main__ - INFO - Successfully created 4 tiles for job 82ecbbec-6e46-49ac-b373-c79c46bd9bb2
+2025-11-08 19:21:07,292 - __main__ - INFO - Job 82ecbbec-6e46-49ac-b373-c79c46bd9bb2 created with 4 tiles
+2025-11-08 19:21:07,307 - __main__ - INFO - Job 82ecbbec-6e46-49ac-b373-c79c46bd9bb2 created with 4 tiles
+2025-11-08 19:21:17,313 - __main__ - WARNING - 2 messages not delivered
+2025-11-08 19:21:17,313 - __main__ - INFO - All 4 tasks distributed for job 82ecbbec-6e46-49ac-b373-c79c46bd9bb2
+2025-11-08 19:24:53,785 - __main__ - INFO - WebSocket client connected
+2025-11-08 19:24:54,787 - __main__ - WARNING - WebSocket error: received 1001 (going away); then sent 1001 (going away)
+2025-11-08 19:24:54,787 - __main__ - INFO - WebSocket client disconnected
+2025-11-08 19:27:26,967 - __main__ - INFO - Image validated: 1024x1024
+2025-11-08 19:27:26,968 - __main__ - INFO - Starting job 0f33353c-cdd3-4aa9-b360-b777494c7fa7 for file wp4471357-1024x1024-wallpapers.jpg
+2025-11-08 19:27:26,968 - __main__ - INFO - Creating 2x2 = 4 tiles
+2025-11-08 19:27:27,461 - __main__ - INFO - Successfully created 4 tiles for job 0f33353c-cdd3-4aa9-b360-b777494c7fa7
+2025-11-08 19:27:27,474 - __main__ - INFO - Job 0f33353c-cdd3-4aa9-b360-b777494c7fa7 created with 4 tiles
+2025-11-08 19:27:27,496 - __main__ - INFO - Job 0f33353c-cdd3-4aa9-b360-b777494c7fa7 created with 4 tiles
+2025-11-08 19:27:31,336 - __main__ - INFO - All 4 tasks distributed for job 0f33353c-cdd3-4aa9-b360-b777494c7fa7
+2025-11-08 19:28:39,475 - __main__ - INFO - WebSocket client connected
+2025-11-08 19:28:41,002 - __main__ - WARNING - WebSocket error: received 1001 (going away); then sent 1001 (going away)
+2025-11-08 19:28:41,002 - __main__ - INFO - WebSocket client disconnected
+2025-11-08 19:29:28,863 - __main__ - INFO - Image validated: 1024x1024
+2025-11-08 19:29:28,863 - __main__ - INFO - Starting job 420cada7-305a-4ab4-9f58-b2ab1b58d9e8 for file wp4471392-1024x1024-wallpapers.jpg
+2025-11-08 19:29:28,864 - __main__ - INFO - Creating 2x2 = 4 tiles
+2025-11-08 19:29:29,327 - __main__ - INFO - Successfully created 4 tiles for job 420cada7-305a-4ab4-9f58-b2ab1b58d9e8
+2025-11-08 19:29:29,333 - __main__ - INFO - Job 420cada7-305a-4ab4-9f58-b2ab1b58d9e8 created with 4 tiles
+2025-11-08 19:29:29,347 - __main__ - INFO - Job 420cada7-305a-4ab4-9f58-b2ab1b58d9e8 created with 4 tiles
+2025-11-08 19:29:34,200 - __main__ - INFO - All 4 tasks distributed for job 420cada7-305a-4ab4-9f58-b2ab1b58d9e8
+2025-11-08 19:29:34,367 - __main__ - INFO - Received processed tile: 420cada7-305a-4ab4-9f58-b2ab1b58d9e8_tile_0
+2025-11-08 19:29:35,379 - __main__ - INFO - Received processed tile: 420cada7-305a-4ab4-9f58-b2ab1b58d9e8_tile_1
+2025-11-08 19:29:36,474 - __main__ - INFO - Received processed tile: 420cada7-305a-4ab4-9f58-b2ab1b58d9e8_tile_2
+2025-11-08 19:29:37,155 - __main__ - INFO - Received processed tile: 420cada7-305a-4ab4-9f58-b2ab1b58d9e8_tile_3
+2025-11-08 19:29:39,256 - __main__ - INFO - Reconstructing image: 1024x1024 from 4 tiles
+2025-11-08 19:29:39,293 - __main__ - INFO - Image reconstruction completed successfully
+2025-11-08 19:29:39,592 - __main__ - INFO - Job 420cada7-305a-4ab4-9f58-b2ab1b58d9e8 status updated to completed
+2025-11-08 19:29:39,593 - __main__ - INFO - Job 420cada7-305a-4ab4-9f58-b2ab1b58d9e8 completed successfully
+2025-11-08 19:29:48,722 - __main__ - WARNING - WebSocket error: received 1001 (going away); then sent 1001 (going away)
+2025-11-08 19:29:48,723 - __main__ - INFO - WebSocket client disconnected
+2025-11-08 19:29:52,819 - __main__ - INFO - WebSocket client connected
+2025-11-08 19:30:11,906 - __main__ - WARNING - WebSocket error: sent 1012 (service restart); no close frame received
+2025-11-08 19:30:11,906 - __main__ - INFO - WebSocket client disconnected
+2025-11-08 19:30:14,008 - __main__ - INFO - Master node shutting down
+2025-11-08 19:31:28,507 - __main__ - INFO - Metadata database initialized at master_metadata.db
+2025-11-08 19:31:28,511 - __main__ - INFO - Kafka manager initialized
+2025-11-08 19:31:28,597 - __main__ - INFO - Master node started successfully
+2025-11-08 19:31:28,597 - __main__ - INFO - Starting result consumer task
+2025-11-08 19:31:29,598 - __main__ - INFO - Starting heartbeat consumer task
+2025-11-08 19:31:56,550 - __main__ - INFO - WebSocket client connected
+2025-11-08 19:32:17,819 - __main__ - INFO - Image validated: 1024x1024
+2025-11-08 19:32:17,820 - __main__ - INFO - Starting job c20a0882-20c5-4c05-98ca-9a14f6c266b6 for file wp4471357-1024x1024-wallpapers.jpg
+2025-11-08 19:32:17,820 - __main__ - INFO - Creating 2x2 = 4 tiles
+2025-11-08 19:32:18,263 - __main__ - INFO - Successfully created 4 tiles for job c20a0882-20c5-4c05-98ca-9a14f6c266b6
+2025-11-08 19:32:18,270 - __main__ - INFO - Job c20a0882-20c5-4c05-98ca-9a14f6c266b6 created with 4 tiles
+2025-11-08 19:32:18,292 - __main__ - INFO - Job c20a0882-20c5-4c05-98ca-9a14f6c266b6 created with 4 tiles
+2025-11-08 19:32:24,591 - __main__ - INFO - All 4 tasks distributed for job c20a0882-20c5-4c05-98ca-9a14f6c266b6
+2025-11-08 19:32:24,596 - __main__ - INFO - Received processed tile: c20a0882-20c5-4c05-98ca-9a14f6c266b6_tile_0
+2025-11-08 19:32:24,709 - __main__ - INFO - Received processed tile: c20a0882-20c5-4c05-98ca-9a14f6c266b6_tile_1
+2025-11-08 19:32:24,819 - __main__ - INFO - Received processed tile: c20a0882-20c5-4c05-98ca-9a14f6c266b6_tile_2
+2025-11-08 19:32:25,239 - __main__ - INFO - Received processed tile: c20a0882-20c5-4c05-98ca-9a14f6c266b6_tile_3
+2025-11-08 19:32:27,241 - __main__ - INFO - Reconstructing image: 1024x1024 from 4 tiles
+2025-11-08 19:32:27,280 - __main__ - INFO - Image reconstruction completed successfully
+2025-11-08 19:32:27,515 - __main__ - INFO - Job c20a0882-20c5-4c05-98ca-9a14f6c266b6 status updated to completed
+2025-11-08 19:32:27,516 - __main__ - INFO - Job c20a0882-20c5-4c05-98ca-9a14f6c266b6 completed successfully
+2025-11-08 19:32:38,711 - __main__ - WARNING - WebSocket error: received 1001 (going away); then sent 1001 (going away)
+2025-11-08 19:32:38,711 - __main__ - INFO - WebSocket client disconnected
+2025-11-08 19:32:38,712 - __main__ - INFO - WebSocket client connected
+2025-11-08 19:50:05,140 - __main__ - WARNING - WebSocket error: sent 1012 (service restart); no close frame received
+2025-11-08 19:50:05,141 - __main__ - INFO - WebSocket client disconnected
+2025-11-08 19:50:08,143 - __main__ - INFO - Master node shutting down
+2025-11-08 19:51:31,036 - __main__ - INFO - Metadata database initialized at master_metadata.db
+2025-11-08 19:51:31,040 - __main__ - INFO - Kafka manager initialized
+2025-11-08 19:51:31,112 - __main__ - INFO - Master node started successfully
+2025-11-08 19:51:31,114 - __main__ - INFO - Starting result consumer task
+2025-11-08 19:51:32,114 - __main__ - INFO - Starting heartbeat consumer task
+2025-11-08 19:51:47,134 - __main__ - INFO - WebSocket client connected
+2025-11-08 19:51:52,143 - __main__ - INFO - WebSocket client connected
+2025-11-08 19:52:47,518 - __main__ - INFO - Image validated: 1024x1024
+2025-11-08 19:52:47,518 - __main__ - INFO - Starting job 30c5bbbc-3c37-432f-85de-90d4516bef84 for file wp4471392-1024x1024-wallpapers.jpg with transformation: grayscale
+2025-11-08 19:52:47,519 - __main__ - INFO - Creating 2x2 = 4 tiles with grayscale transformation
+2025-11-08 19:52:47,931 - __main__ - INFO - Successfully created 4 tiles for job 30c5bbbc-3c37-432f-85de-90d4516bef84
+2025-11-08 19:52:47,936 - __main__ - INFO - Job 30c5bbbc-3c37-432f-85de-90d4516bef84 created with 4 tiles
+2025-11-08 19:52:47,949 - __main__ - INFO - Job 30c5bbbc-3c37-432f-85de-90d4516bef84 created with 4 tiles and transformation: grayscale
+2025-11-08 19:52:51,560 - __main__ - INFO - All 4 tasks distributed for job 30c5bbbc-3c37-432f-85de-90d4516bef84 with transformation: grayscale
+2025-11-08 19:52:52,286 - __main__ - INFO - Received processed tile: 30c5bbbc-3c37-432f-85de-90d4516bef84_tile_0
+2025-11-08 19:52:52,391 - __main__ - INFO - Received processed tile: 30c5bbbc-3c37-432f-85de-90d4516bef84_tile_1
+2025-11-08 19:52:52,763 - __main__ - INFO - Received processed tile: 30c5bbbc-3c37-432f-85de-90d4516bef84_tile_2
+2025-11-08 19:52:53,772 - __main__ - INFO - Received processed tile: 30c5bbbc-3c37-432f-85de-90d4516bef84_tile_3
+2025-11-08 19:52:55,869 - __main__ - INFO - Reconstructing image: 1024x1024 from 4 tiles
+2025-11-08 19:52:55,903 - __main__ - INFO - Image reconstruction completed successfully
+2025-11-08 19:52:56,181 - __main__ - INFO - Job 30c5bbbc-3c37-432f-85de-90d4516bef84 status updated to completed
+2025-11-08 19:52:56,182 - __main__ - INFO - Job 30c5bbbc-3c37-432f-85de-90d4516bef84 completed successfully
+2025-11-08 19:53:00,311 - __main__ - WARNING - WebSocket error: received 1001 (going away); then sent 1001 (going away)
+2025-11-08 19:53:00,312 - __main__ - INFO - WebSocket client disconnected
+2025-11-08 19:53:05,186 - __main__ - INFO - WebSocket client connected
+2025-11-08 19:53:14,301 - __main__ - WARNING - WebSocket error: received 1001 (going away); then sent 1001 (going away)
+2025-11-08 19:53:14,301 - __main__ - INFO - WebSocket client disconnected
+2025-11-08 19:59:11,567 - __main__ - WARNING - WebSocket error: sent 1012 (service restart); no close frame received
+2025-11-08 19:59:11,567 - __main__ - INFO - WebSocket client disconnected
+2025-11-08 19:59:13,665 - __main__ - INFO - Master node shutting down
+2025-11-08 19:59:19,345 - __main__ - INFO - Metadata database initialized at master_metadata.db
+2025-11-08 19:59:19,349 - __main__ - INFO - Kafka manager initialized
+2025-11-08 19:59:19,441 - __main__ - INFO - Master node started successfully
+2025-11-08 19:59:19,441 - __main__ - INFO - Starting result consumer task
+2025-11-08 19:59:20,442 - __main__ - INFO - Starting heartbeat consumer task
+2025-11-08 19:59:26,456 - __main__ - INFO - WebSocket client connected
+2025-11-08 19:59:33,469 - __main__ - INFO - WebSocket client connected
+2025-11-08 20:00:19,059 - __main__ - INFO - Image validated: 1024x1024
+2025-11-08 20:00:19,060 - __main__ - INFO - Starting job ee9d5b8d-e23c-4180-9c00-6b1fa145083c for file wp4471392-1024x1024-wallpapers.jpg with transformation: blur
+2025-11-08 20:00:19,061 - __main__ - INFO - Creating 2x2 = 4 tiles with blur transformation
+2025-11-08 20:00:19,459 - __main__ - INFO - Successfully created 4 tiles for job ee9d5b8d-e23c-4180-9c00-6b1fa145083c
+2025-11-08 20:00:19,469 - __main__ - INFO - Job ee9d5b8d-e23c-4180-9c00-6b1fa145083c created with 4 tiles
+2025-11-08 20:00:19,469 - __main__ - ERROR - Error processing image: MetadataDB.create_tile() takes 6 positional arguments but 7 were given
+2025-11-08 20:00:39,202 - __main__ - INFO - Image validated: 1024x1024
+2025-11-08 20:00:39,204 - __main__ - INFO - Starting job c4e9c2b0-d181-4a55-b9af-5df33c6095c0 for file wp4471392-1024x1024-wallpapers.jpg with transformation: blur
+2025-11-08 20:00:39,204 - __main__ - INFO - Creating 2x2 = 4 tiles with blur transformation
+2025-11-08 20:00:39,616 - __main__ - INFO - Successfully created 4 tiles for job c4e9c2b0-d181-4a55-b9af-5df33c6095c0
+2025-11-08 20:00:39,620 - __main__ - INFO - Job c4e9c2b0-d181-4a55-b9af-5df33c6095c0 created with 4 tiles
+2025-11-08 20:00:39,620 - __main__ - ERROR - Error processing image: MetadataDB.create_tile() takes 6 positional arguments but 7 were given
+2025-11-08 20:00:46,939 - __main__ - INFO - Image validated: 1024x1024
+2025-11-08 20:00:46,939 - __main__ - INFO - Starting job 82912128-3764-47d5-8144-d267515a6b0b for file wp4471392-1024x1024-wallpapers.jpg with transformation: blur
+2025-11-08 20:00:46,940 - __main__ - INFO - Creating 2x2 = 4 tiles with blur transformation
+2025-11-08 20:00:47,297 - __main__ - INFO - Successfully created 4 tiles for job 82912128-3764-47d5-8144-d267515a6b0b
+2025-11-08 20:00:47,301 - __main__ - INFO - Job 82912128-3764-47d5-8144-d267515a6b0b created with 4 tiles
+2025-11-08 20:00:47,302 - __main__ - ERROR - Error processing image: MetadataDB.create_tile() takes 6 positional arguments but 7 were given
+2025-11-08 20:04:01,173 - __main__ - WARNING - WebSocket error: sent 1012 (service restart); no close frame received
+2025-11-08 20:04:01,173 - __main__ - INFO - WebSocket client disconnected
+2025-11-08 20:04:01,174 - __main__ - WARNING - WebSocket error: sent 1012 (service restart); no close frame received
+2025-11-08 20:04:01,174 - __main__ - INFO - WebSocket client disconnected
+2025-11-08 20:04:02,175 - __main__ - INFO - Master node shutting down
+2025-11-08 20:04:07,789 - __main__ - INFO - Metadata database initialized at master_metadata.db
+2025-11-08 20:04:07,793 - __main__ - INFO - Kafka manager initialized
+2025-11-08 20:04:07,879 - __main__ - INFO - Master node started successfully
+2025-11-08 20:04:07,879 - __main__ - INFO - Starting result consumer task
+2025-11-08 20:04:08,881 - __main__ - INFO - Starting heartbeat consumer task
+2025-11-08 20:04:15,893 - __main__ - INFO - WebSocket client connected
+2025-11-08 20:04:20,905 - __main__ - INFO - WebSocket client connected
+2025-11-08 20:04:25,924 - __main__ - INFO - WebSocket client connected
+2025-11-08 20:04:41,999 - __main__ - INFO - Image validated: 1024x1024
+2025-11-08 20:04:41,999 - __main__ - INFO - Starting job a6160d9f-0f37-42fe-a5ed-04efcc8a7e90 for file wp4471392-1024x1024-wallpapers.jpg with transformation: blur
+2025-11-08 20:04:42,000 - __main__ - INFO - Creating 2x2 = 4 tiles with blur transformation
+2025-11-08 20:04:42,381 - __main__ - INFO - Successfully created 4 tiles for job a6160d9f-0f37-42fe-a5ed-04efcc8a7e90
+2025-11-08 20:04:42,387 - __main__ - INFO - Job a6160d9f-0f37-42fe-a5ed-04efcc8a7e90 created with 4 tiles
+2025-11-08 20:04:42,400 - __main__ - INFO - Job a6160d9f-0f37-42fe-a5ed-04efcc8a7e90 created with 4 tiles and transformation: blur
+2025-11-08 20:04:48,126 - __main__ - INFO - All 4 tasks distributed for job a6160d9f-0f37-42fe-a5ed-04efcc8a7e90 with transformation: blur
+2025-11-08 20:06:08,747 - __main__ - INFO - WebSocket client connected
+2025-11-08 20:06:11,759 - __main__ - WARNING - WebSocket error: received 1001 (going away); then sent 1001 (going away)
+2025-11-08 20:06:11,760 - __main__ - INFO - WebSocket client disconnected
+2025-11-08 20:06:33,688 - __main__ - INFO - Image validated: 1024x1024
+2025-11-08 20:06:33,688 - __main__ - INFO - Starting job 5602c871-ab26-4b3e-a697-63656c548a23 for file wp4471373-1024x1024-wallpapers.jpg with transformation: grayscale
+2025-11-08 20:06:33,688 - __main__ - INFO - Creating 2x2 = 4 tiles with grayscale transformation
+2025-11-08 20:06:33,960 - __main__ - INFO - Successfully created 4 tiles for job 5602c871-ab26-4b3e-a697-63656c548a23
+2025-11-08 20:06:33,966 - __main__ - INFO - Job 5602c871-ab26-4b3e-a697-63656c548a23 created with 4 tiles
+2025-11-08 20:06:33,982 - __main__ - INFO - Job 5602c871-ab26-4b3e-a697-63656c548a23 created with 4 tiles and transformation: grayscale
+2025-11-08 20:06:35,469 - __main__ - INFO - All 4 tasks distributed for job 5602c871-ab26-4b3e-a697-63656c548a23 with transformation: grayscale
+2025-11-08 20:06:36,751 - __main__ - INFO - Received processed tile: 5602c871-ab26-4b3e-a697-63656c548a23_tile_0
+2025-11-08 20:06:37,364 - __main__ - INFO - Received processed tile: 5602c871-ab26-4b3e-a697-63656c548a23_tile_1
+2025-11-08 20:06:38,461 - __main__ - INFO - Received processed tile: 5602c871-ab26-4b3e-a697-63656c548a23_tile_2
+2025-11-08 20:06:39,560 - __main__ - INFO - Received processed tile: 5602c871-ab26-4b3e-a697-63656c548a23_tile_3
+2025-11-08 20:06:39,562 - __main__ - INFO - Reconstructing image: 1024x1024 from 4 tiles
+2025-11-08 20:06:39,598 - __main__ - INFO - Image reconstruction completed successfully
+2025-11-08 20:06:39,810 - __main__ - INFO - Job 5602c871-ab26-4b3e-a697-63656c548a23 status updated to completed
+2025-11-08 20:06:39,810 - __main__ - INFO - Job 5602c871-ab26-4b3e-a697-63656c548a23 completed successfully
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            2025-11-09 16:12:17,637 - __main__ - INFO - Metadata database initialized at master_metadata.db
+2025-11-09 16:12:17,660 - __main__ - INFO - Kafka manager initialized
+2025-11-09 16:12:17,772 - __main__ - INFO - Master node started successfully
+2025-11-09 16:12:17,772 - __main__ - INFO - Starting result consumer task
+2025-11-09 16:12:18,778 - __main__ - INFO - Starting heartbeat consumer task
+2025-11-09 16:12:32,017 - __main__ - INFO - WebSocket client connected
+2025-11-09 16:13:05,740 - __main__ - INFO - ========================================
+2025-11-09 16:13:05,741 - __main__ - INFO - RECEIVED TRANSFORMATION: 'blur'
+2025-11-09 16:13:05,741 - __main__ - INFO - TRANSFORMATION TYPE: <class 'str'>
+2025-11-09 16:13:05,741 - __main__ - INFO - ========================================
+2025-11-09 16:13:05,758 - __main__ - INFO - Image validated: 1024x1024
+2025-11-09 16:13:05,758 - __main__ - INFO - Starting job 920922bf-c223-473c-aef0-7556e9d4d323 for file result_b5b2bb9c-a2d8-438e-8f71-8d2d69fd80ef.png with transformation: 'blur'
+2025-11-09 16:13:05,758 - __main__ - INFO - Creating 2x2 = 4 tiles with 'blur' transformation
+2025-11-09 16:13:05,957 - __main__ - INFO - Successfully created 4 tiles for job 920922bf-c223-473c-aef0-7556e9d4d323 with transformation 'blur'
+2025-11-09 16:13:05,957 - __main__ - INFO - First tile transformation: 'blur'
+2025-11-09 16:13:05,961 - __main__ - INFO - Job 920922bf-c223-473c-aef0-7556e9d4d323 created with 4 tiles
+2025-11-09 16:13:05,977 - __main__ - INFO - Job 920922bf-c223-473c-aef0-7556e9d4d323 created with 4 tiles and transformation: 'blur'
+2025-11-09 16:13:15,983 - __main__ - WARNING - 4 messages not delivered
+2025-11-09 16:13:15,983 - __main__ - INFO - All 4 tasks distributed for job 920922bf-c223-473c-aef0-7556e9d4d323 with transformation: 'blur'
+2025-11-09 16:37:23,040 - __main__ - ERROR - Consumer error: KafkaError{code=UNKNOWN_TOPIC_OR_PART,val=3,str="Subscribed topic not available: results: Broker: Unknown topic or partition"}
+2025-11-09 16:44:20,471 - __main__ - INFO - WebSocket client connected
+2025-11-09 16:44:21,495 - __main__ - WARNING - WebSocket error: received 1001 (going away); then sent 1001 (going away)
+2025-11-09 16:44:21,495 - __main__ - INFO - WebSocket client disconnected
+2025-11-09 16:47:44,520 - __main__ - INFO - ========================================
+2025-11-09 16:47:44,520 - __main__ - INFO - RECEIVED TRANSFORMATION: 'blur'
+2025-11-09 16:47:44,521 - __main__ - INFO - TRANSFORMATION TYPE: <class 'str'>
+2025-11-09 16:47:44,521 - __main__ - INFO - ========================================
+2025-11-09 16:47:44,521 - __main__ - INFO - Image validated: 1024x1024
+2025-11-09 16:47:44,521 - __main__ - INFO - Starting job c2d1a9fe-404c-4f90-bef4-f6d8e551f242 for file wp4471373-1024x1024-wallpapers.jpg with transformation: 'blur'
+2025-11-09 16:47:44,521 - __main__ - INFO - Creating 2x2 = 4 tiles with 'blur' transformation
+2025-11-09 16:47:44,965 - __main__ - INFO - Successfully created 4 tiles for job c2d1a9fe-404c-4f90-bef4-f6d8e551f242 with transformation 'blur'
+2025-11-09 16:47:44,966 - __main__ - INFO - First tile transformation: 'blur'
+2025-11-09 16:47:44,971 - __main__ - INFO - Job c2d1a9fe-404c-4f90-bef4-f6d8e551f242 created with 4 tiles
+2025-11-09 16:47:44,988 - __main__ - INFO - Job c2d1a9fe-404c-4f90-bef4-f6d8e551f242 created with 4 tiles and transformation: 'blur'
+2025-11-09 16:47:44,989 - __main__ - ERROR - Message delivery failed: KafkaError{code=_MSG_TIMED_OUT,val=-192,str="Local: Message timed out"}
+2025-11-09 16:47:44,990 - __main__ - ERROR - Message delivery failed: KafkaError{code=_MSG_TIMED_OUT,val=-192,str="Local: Message timed out"}
+2025-11-09 16:47:44,990 - __main__ - ERROR - Message delivery failed: KafkaError{code=_MSG_TIMED_OUT,val=-192,str="Local: Message timed out"}
+2025-11-09 16:47:44,990 - __main__ - ERROR - Message delivery failed: KafkaError{code=_MSG_TIMED_OUT,val=-192,str="Local: Message timed out"}
+2025-11-09 16:47:53,892 - __main__ - INFO - All 4 tasks distributed for job c2d1a9fe-404c-4f90-bef4-f6d8e551f242 with transformation: 'blur'
+2025-11-09 16:48:24,154 - __main__ - WARNING - WebSocket error: received 1001 (going away); then sent 1001 (going away)
+2025-11-09 16:48:24,154 - __main__ - INFO - WebSocket client disconnected
+2025-11-09 16:48:24,225 - __main__ - INFO - WebSocket client connected
+2025-11-09 16:48:49,849 - __main__ - INFO - ========================================
+2025-11-09 16:48:49,849 - __main__ - INFO - RECEIVED TRANSFORMATION: 'edge_detection'
+2025-11-09 16:48:49,849 - __main__ - INFO - TRANSFORMATION TYPE: <class 'str'>
+2025-11-09 16:48:49,849 - __main__ - INFO - ========================================
+2025-11-09 16:48:49,850 - __main__ - INFO - Image validated: 1024x1024
+2025-11-09 16:48:49,850 - __main__ - INFO - Starting job 6d74974e-be9b-4d00-87dc-e2e00a61c300 for file wp4471373-1024x1024-wallpapers.jpg with transformation: 'edge_detection'
+2025-11-09 16:48:49,850 - __main__ - INFO - Creating 2x2 = 4 tiles with 'edge_detection' transformation
+2025-11-09 16:48:50,134 - __main__ - INFO - Successfully created 4 tiles for job 6d74974e-be9b-4d00-87dc-e2e00a61c300 with transformation 'edge_detection'
+2025-11-09 16:48:50,135 - __main__ - INFO - First tile transformation: 'edge_detection'
+2025-11-09 16:48:50,144 - __main__ - INFO - Job 6d74974e-be9b-4d00-87dc-e2e00a61c300 created with 4 tiles
+2025-11-09 16:48:50,180 - __main__ - INFO - Job 6d74974e-be9b-4d00-87dc-e2e00a61c300 created with 4 tiles and transformation: 'edge_detection'
+2025-11-09 16:48:57,307 - __main__ - INFO - All 4 tasks distributed for job 6d74974e-be9b-4d00-87dc-e2e00a61c300 with transformation: 'edge_detection'
+2025-11-09 16:49:17,054 - __main__ - INFO - Received processed tile: 6d74974e-be9b-4d00-87dc-e2e00a61c300_tile_0
+2025-11-09 16:49:17,190 - __main__ - INFO - Received processed tile: 6d74974e-be9b-4d00-87dc-e2e00a61c300_tile_1
+2025-11-09 16:49:18,173 - __main__ - INFO - Received processed tile: 6d74974e-be9b-4d00-87dc-e2e00a61c300_tile_2
+2025-11-09 16:49:19,274 - __main__ - INFO - Received processed tile: 6d74974e-be9b-4d00-87dc-e2e00a61c300_tile_3
+2025-11-09 16:49:19,279 - __main__ - INFO - Reconstructing image: 1024x1024 from 4 tiles
+2025-11-09 16:49:19,323 - __main__ - INFO - Image reconstruction completed successfully
+2025-11-09 16:49:19,628 - __main__ - INFO - Job 6d74974e-be9b-4d00-87dc-e2e00a61c300 status updated to completed
+2025-11-09 16:49:19,629 - __main__ - INFO - Job 6d74974e-be9b-4d00-87dc-e2e00a61c300 completed successfully
+2025-11-09 16:49:23,217 - __main__ - WARNING - WebSocket error: received 1001 (going away); then sent 1001 (going away)
+2025-11-09 16:49:23,218 - __main__ - INFO - WebSocket client disconnected
+2025-11-09 16:49:27,132 - __main__ - INFO - WebSocket client connected
+2025-11-09 16:49:48,339 - __main__ - INFO - ========================================
+2025-11-09 16:49:48,339 - __main__ - INFO - RECEIVED TRANSFORMATION: 'sharpen'
+2025-11-09 16:49:48,339 - __main__ - INFO - TRANSFORMATION TYPE: <class 'str'>
+2025-11-09 16:49:48,339 - __main__ - INFO - ========================================
+2025-11-09 16:49:48,340 - __main__ - INFO - Image validated: 1024x1024
+2025-11-09 16:49:48,340 - __main__ - INFO - Starting job c5d7692b-1a06-451f-b457-0aa29dd8b685 for file wp4471357-1024x1024-wallpapers.jpg with transformation: 'sharpen'
+2025-11-09 16:49:48,340 - __main__ - INFO - Creating 2x2 = 4 tiles with 'sharpen' transformation
+2025-11-09 16:49:48,705 - __main__ - INFO - Successfully created 4 tiles for job c5d7692b-1a06-451f-b457-0aa29dd8b685 with transformation 'sharpen'
+2025-11-09 16:49:48,706 - __main__ - INFO - First tile transformation: 'sharpen'
+2025-11-09 16:49:48,711 - __main__ - INFO - Job c5d7692b-1a06-451f-b457-0aa29dd8b685 created with 4 tiles
+2025-11-09 16:49:48,733 - __main__ - INFO - Job c5d7692b-1a06-451f-b457-0aa29dd8b685 created with 4 tiles and transformation: 'sharpen'
+2025-11-09 16:49:51,900 - __main__ - INFO - All 4 tasks distributed for job c5d7692b-1a06-451f-b457-0aa29dd8b685 with transformation: 'sharpen'
+2025-11-09 16:49:53,008 - __main__ - INFO - Received processed tile: c5d7692b-1a06-451f-b457-0aa29dd8b685_tile_0
+2025-11-09 16:49:53,977 - __main__ - INFO - Received processed tile: c5d7692b-1a06-451f-b457-0aa29dd8b685_tile_1
+2025-11-09 16:49:54,968 - __main__ - INFO - Received processed tile: c5d7692b-1a06-451f-b457-0aa29dd8b685_tile_2
+2025-11-09 16:49:55,563 - __main__ - INFO - Received processed tile: c5d7692b-1a06-451f-b457-0aa29dd8b685_tile_3
+2025-11-09 16:49:57,620 - __main__ - INFO - Reconstructing image: 1024x1024 from 4 tiles
+2025-11-09 16:49:57,667 - __main__ - INFO - Image reconstruction completed successfully
+2025-11-09 16:49:57,981 - __main__ - INFO - Job c5d7692b-1a06-451f-b457-0aa29dd8b685 status updated to completed
+2025-11-09 16:49:57,981 - __main__ - INFO - Job c5d7692b-1a06-451f-b457-0aa29dd8b685 completed successfully
+2025-11-09 16:50:04,287 - __main__ - WARNING - WebSocket error: received 1001 (going away); then sent 1001 (going away)
+2025-11-09 16:50:04,287 - __main__ - INFO - WebSocket client disconnected
+2025-11-09 16:50:08,288 - __main__ - INFO - WebSocket client connected
+2025-11-09 16:50:22,315 - __main__ - INFO - ========================================
+2025-11-09 16:50:22,316 - __main__ - INFO - RECEIVED TRANSFORMATION: 'rotate_90'
+2025-11-09 16:50:22,316 - __main__ - INFO - TRANSFORMATION TYPE: <class 'str'>
+2025-11-09 16:50:22,316 - __main__ - INFO - ========================================
+2025-11-09 16:50:22,316 - __main__ - INFO - Image validated: 1024x1024
+2025-11-09 16:50:22,316 - __main__ - INFO - Starting job f27cfe18-4fca-43da-872f-6767092d6da8 for file wp4471357-1024x1024-wallpapers.jpg with transformation: 'rotate_90'
+2025-11-09 16:50:22,317 - __main__ - INFO - Creating 2x2 = 4 tiles with 'rotate_90' transformation
+2025-11-09 16:50:22,671 - __main__ - INFO - Successfully created 4 tiles for job f27cfe18-4fca-43da-872f-6767092d6da8 with transformation 'rotate_90'
+2025-11-09 16:50:22,671 - __main__ - INFO - First tile transformation: 'rotate_90'
+2025-11-09 16:50:22,674 - __main__ - INFO - Job f27cfe18-4fca-43da-872f-6767092d6da8 created with 4 tiles
+2025-11-09 16:50:22,686 - __main__ - INFO - Job f27cfe18-4fca-43da-872f-6767092d6da8 created with 4 tiles and transformation: 'rotate_90'
+2025-11-09 16:50:25,940 - __main__ - INFO - All 4 tasks distributed for job f27cfe18-4fca-43da-872f-6767092d6da8 with transformation: 'rotate_90'
+2025-11-09 16:50:44,726 - __main__ - WARNING - WebSocket error: received 1001 (going away); then sent 1001 (going away)
+2025-11-09 16:50:44,726 - __main__ - INFO - WebSocket client disconnected
+2025-11-09 16:50:44,728 - __main__ - INFO - WebSocket client connected
+2025-11-09 16:51:38,351 - __main__ - INFO - WebSocket client connected
+2025-11-09 16:51:39,351 - __main__ - WARNING - WebSocket error: received 1001 (going away); then sent 1001 (going away)
+2025-11-09 16:51:39,352 - __main__ - INFO - WebSocket client disconnected
+2025-11-09 16:52:26,394 - __main__ - INFO - WebSocket client connected
+2025-11-09 16:52:29,427 - __main__ - WARNING - WebSocket error: received 1001 (going away); then sent 1001 (going away)
+2025-11-09 16:52:29,427 - __main__ - INFO - WebSocket client disconnected
+2025-11-09 16:52:49,195 - __main__ - INFO - ========================================
+2025-11-09 16:52:49,195 - __main__ - INFO - RECEIVED TRANSFORMATION: 'sharpen'
+2025-11-09 16:52:49,195 - __main__ - INFO - TRANSFORMATION TYPE: <class 'str'>
+2025-11-09 16:52:49,195 - __main__ - INFO - ========================================
+2025-11-09 16:52:49,195 - __main__ - INFO - Image validated: 1024x1024
+2025-11-09 16:52:49,195 - __main__ - INFO - Starting job 61aa6c7b-2280-4b5e-bb09-dd2bd78de550 for file wp4471357-1024x1024-wallpapers.jpg with transformation: 'sharpen'
+2025-11-09 16:52:49,195 - __main__ - INFO - Creating 2x2 = 4 tiles with 'sharpen' transformation
+2025-11-09 16:52:49,620 - __main__ - INFO - Successfully created 4 tiles for job 61aa6c7b-2280-4b5e-bb09-dd2bd78de550 with transformation 'sharpen'
+2025-11-09 16:52:49,621 - __main__ - INFO - First tile transformation: 'sharpen'
+2025-11-09 16:52:49,625 - __main__ - INFO - Job 61aa6c7b-2280-4b5e-bb09-dd2bd78de550 created with 4 tiles
+2025-11-09 16:52:49,645 - __main__ - INFO - Job 61aa6c7b-2280-4b5e-bb09-dd2bd78de550 created with 4 tiles and transformation: 'sharpen'
+2025-11-09 16:52:59,650 - __main__ - WARNING - 4 messages not delivered
+2025-11-09 16:52:59,651 - __main__ - INFO - All 4 tasks distributed for job 61aa6c7b-2280-4b5e-bb09-dd2bd78de550 with transformation: 'sharpen'
+2025-11-09 17:08:30,417 - __main__ - WARNING - WebSocket error: received 1001 (going away); then sent 1001 (going away)
+2025-11-09 17:08:30,417 - __main__ - INFO - WebSocket client disconnected
+2025-11-09 17:08:30,444 - __main__ - INFO - WebSocket client connected
+2025-11-09 17:08:47,867 - __main__ - INFO - ========================================
+2025-11-09 17:08:47,867 - __main__ - INFO - RECEIVED TRANSFORMATION: 'sharpen'
+2025-11-09 17:08:47,869 - __main__ - INFO - TRANSFORMATION TYPE: <class 'str'>
+2025-11-09 17:08:47,869 - __main__ - INFO - ========================================
+2025-11-09 17:08:47,869 - __main__ - INFO - Image validated: 1024x1024
+2025-11-09 17:08:47,869 - __main__ - INFO - Starting job 965b5bed-b0ad-40b7-adbc-a16b1b7eaef7 for file wp4471357-1024x1024-wallpapers.jpg with transformation: 'sharpen'
+2025-11-09 17:08:47,870 - __main__ - INFO - Creating 2x2 = 4 tiles with 'sharpen' transformation
+2025-11-09 17:08:48,274 - __main__ - INFO - Successfully created 4 tiles for job 965b5bed-b0ad-40b7-adbc-a16b1b7eaef7 with transformation 'sharpen'
+2025-11-09 17:08:48,275 - __main__ - INFO - First tile transformation: 'sharpen'
+2025-11-09 17:08:48,280 - __main__ - INFO - Job 965b5bed-b0ad-40b7-adbc-a16b1b7eaef7 created with 4 tiles
+2025-11-09 17:08:48,295 - __main__ - INFO - Job 965b5bed-b0ad-40b7-adbc-a16b1b7eaef7 created with 4 tiles and transformation: 'sharpen'
+2025-11-09 17:08:50,324 - __main__ - INFO - All 4 tasks distributed for job 965b5bed-b0ad-40b7-adbc-a16b1b7eaef7 with transformation: 'sharpen'
+2025-11-09 17:11:34,503 - __main__ - WARNING - WebSocket error: received 1001 (going away); then sent 1001 (going away)
+2025-11-09 17:11:34,503 - __main__ - INFO - WebSocket client disconnected
+2025-11-09 17:11:34,526 - __main__ - INFO - WebSocket client connected
+2025-11-09 17:11:50,844 - __main__ - INFO - ========================================
+2025-11-09 17:11:50,844 - __main__ - INFO - RECEIVED TRANSFORMATION: 'blur'
+2025-11-09 17:11:50,844 - __main__ - INFO - TRANSFORMATION TYPE: <class 'str'>
+2025-11-09 17:11:50,844 - __main__ - INFO - ========================================
+2025-11-09 17:11:50,844 - __main__ - INFO - Image validated: 1024x1024
+2025-11-09 17:11:50,845 - __main__ - INFO - Starting job ea5245fc-d9d2-4b7c-a2d3-b0a4f1baf742 for file wp4471357-1024x1024-wallpapers.jpg with transformation: 'blur'
+2025-11-09 17:11:50,845 - __main__ - INFO - Creating 2x2 = 4 tiles with 'blur' transformation
+2025-11-09 17:11:51,168 - __main__ - INFO - Successfully created 4 tiles for job ea5245fc-d9d2-4b7c-a2d3-b0a4f1baf742 with transformation 'blur'
+2025-11-09 17:11:51,168 - __main__ - INFO - First tile transformation: 'blur'
+2025-11-09 17:11:51,173 - __main__ - INFO - Job ea5245fc-d9d2-4b7c-a2d3-b0a4f1baf742 created with 4 tiles
+2025-11-09 17:11:51,185 - __main__ - INFO - Job ea5245fc-d9d2-4b7c-a2d3-b0a4f1baf742 created with 4 tiles and transformation: 'blur'
+2025-11-09 17:11:57,983 - __main__ - INFO - All 4 tasks distributed for job ea5245fc-d9d2-4b7c-a2d3-b0a4f1baf742 with transformation: 'blur'
+2025-11-09 17:14:34,365 - __main__ - INFO - WebSocket client connected
+2025-11-09 17:14:34,365 - __main__ - WARNING - WebSocket error: received 1001 (going away); then sent 1001 (going away)
+2025-11-09 17:14:34,365 - __main__ - INFO - WebSocket client disconnected
+2025-11-09 17:14:58,521 - __main__ - INFO - ========================================
+2025-11-09 17:14:58,521 - __main__ - INFO - RECEIVED TRANSFORMATION: 'edge_detection'
+2025-11-09 17:14:58,521 - __main__ - INFO - TRANSFORMATION TYPE: <class 'str'>
+2025-11-09 17:14:58,522 - __main__ - INFO - ========================================
+2025-11-09 17:14:58,522 - __main__ - INFO - Image validated: 1024x1024
+2025-11-09 17:14:58,522 - __main__ - INFO - Starting job 3a4a0a3f-cd3d-4c25-84f6-6e600fb4fe52 for file wp4471373-1024x1024-wallpapers.jpg with transformation: 'edge_detection'
+2025-11-09 17:14:58,522 - __main__ - INFO - Creating 2x2 = 4 tiles with 'edge_detection' transformation
+2025-11-09 17:14:58,713 - __main__ - INFO - Successfully created 4 tiles for job 3a4a0a3f-cd3d-4c25-84f6-6e600fb4fe52 with transformation 'edge_detection'
+2025-11-09 17:14:58,714 - __main__ - INFO - First tile transformation: 'edge_detection'
+2025-11-09 17:14:58,718 - __main__ - INFO - Job 3a4a0a3f-cd3d-4c25-84f6-6e600fb4fe52 created with 4 tiles
+2025-11-09 17:14:58,734 - __main__ - INFO - Job 3a4a0a3f-cd3d-4c25-84f6-6e600fb4fe52 created with 4 tiles and transformation: 'edge_detection'
+2025-11-09 17:14:59,758 - __main__ - INFO - All 4 tasks distributed for job 3a4a0a3f-cd3d-4c25-84f6-6e600fb4fe52 with transformation: 'edge_detection'
+2025-11-09 17:15:01,811 - __main__ - INFO - Received processed tile: 3a4a0a3f-cd3d-4c25-84f6-6e600fb4fe52_tile_0
+2025-11-09 17:15:02,954 - __main__ - INFO - Received processed tile: 3a4a0a3f-cd3d-4c25-84f6-6e600fb4fe52_tile_1
+2025-11-09 17:15:03,888 - __main__ - INFO - Received processed tile: 3a4a0a3f-cd3d-4c25-84f6-6e600fb4fe52_tile_2
+2025-11-09 17:15:04,906 - __main__ - INFO - Received processed tile: 3a4a0a3f-cd3d-4c25-84f6-6e600fb4fe52_tile_3
+2025-11-09 17:15:07,001 - __main__ - INFO - Reconstructing image: 1024x1024 from 4 tiles
+2025-11-09 17:15:07,024 - __main__ - INFO - Image reconstruction completed successfully
+2025-11-09 17:15:07,259 - __main__ - INFO - Job 3a4a0a3f-cd3d-4c25-84f6-6e600fb4fe52 status updated to completed
+2025-11-09 17:15:07,260 - __main__ - INFO - Job 3a4a0a3f-cd3d-4c25-84f6-6e600fb4fe52 completed successfully
+2025-11-09 17:15:31,030 - __main__ - WARNING - WebSocket error: received 1001 (going away); then sent 1001 (going away)
+2025-11-09 17:15:31,030 - __main__ - INFO - WebSocket client disconnected
+2025-11-09 17:15:32,124 - __main__ - INFO - WebSocket client connected
+2025-11-09 17:22:17,196 - __main__ - INFO - WebSocket client connected
+2025-11-09 17:22:20,205 - __main__ - WARNING - WebSocket error: received 1001 (going away); then sent 1001 (going away)
+2025-11-09 17:22:20,207 - __main__ - INFO - WebSocket client disconnected
+2025-11-09 17:22:56,027 - __main__ - INFO - ========================================
+2025-11-09 17:22:56,027 - __main__ - INFO - RECEIVED TRANSFORMATION: 'edge_detection'
+2025-11-09 17:22:56,027 - __main__ - INFO - TRANSFORMATION TYPE: <class 'str'>
+2025-11-09 17:22:56,027 - __main__ - INFO - ========================================
+2025-11-09 17:22:56,027 - __main__ - INFO - Image validated: 1024x1024
+2025-11-09 17:22:56,027 - __main__ - INFO - Starting job b0d7f2ca-b33d-47a6-9ff9-da35f4f7d96e for file wp4471357-1024x1024-wallpapers.jpg with transformation: 'edge_detection'
+2025-11-09 17:22:56,027 - __main__ - INFO - Creating 2x2 = 4 tiles with 'edge_detection' transformation
+2025-11-09 17:22:56,292 - __main__ - INFO - Successfully created 4 tiles for job b0d7f2ca-b33d-47a6-9ff9-da35f4f7d96e with transformation 'edge_detection'
+2025-11-09 17:22:56,292 - __main__ - INFO - First tile transformation: 'edge_detection'
+2025-11-09 17:22:56,302 - __main__ - INFO - Job b0d7f2ca-b33d-47a6-9ff9-da35f4f7d96e created with 4 tiles
+2025-11-09 17:22:56,325 - __main__ - INFO - Job b0d7f2ca-b33d-47a6-9ff9-da35f4f7d96e created with 4 tiles and transformation: 'edge_detection'
+2025-11-09 17:23:06,330 - __main__ - WARNING - 4 messages not delivered
+2025-11-09 17:23:06,331 - __main__ - INFO - All 4 tasks distributed for job b0d7f2ca-b33d-47a6-9ff9-da35f4f7d96e with transformation: 'edge_detection'
+2025-11-09 17:25:37,216 - __main__ - WARNING - WebSocket error: received 1001 (going away); then sent 1001 (going away)
+2025-11-09 17:25:37,216 - __main__ - INFO - WebSocket client disconnected
+2025-11-09 17:25:37,240 - __main__ - INFO - WebSocket client connected
+2025-11-09 17:25:52,617 - __main__ - INFO - ========================================
+2025-11-09 17:25:52,617 - __main__ - INFO - RECEIVED TRANSFORMATION: 'edge_detection'
+2025-11-09 17:25:52,618 - __main__ - INFO - TRANSFORMATION TYPE: <class 'str'>
+2025-11-09 17:25:52,618 - __main__ - INFO - ========================================
+2025-11-09 17:25:52,618 - __main__ - INFO - Image validated: 1024x1024
+2025-11-09 17:25:52,619 - __main__ - INFO - Starting job 779b0cf4-b19f-4024-abd4-8cee56fa36de for file wp4471373-1024x1024-wallpapers.jpg with transformation: 'edge_detection'
+2025-11-09 17:25:52,619 - __main__ - INFO - Creating 2x2 = 4 tiles with 'edge_detection' transformation
+2025-11-09 17:25:52,833 - __main__ - INFO - Successfully created 4 tiles for job 779b0cf4-b19f-4024-abd4-8cee56fa36de with transformation 'edge_detection'
+2025-11-09 17:25:52,834 - __main__ - INFO - First tile transformation: 'edge_detection'
+2025-11-09 17:25:52,843 - __main__ - INFO - Job 779b0cf4-b19f-4024-abd4-8cee56fa36de created with 4 tiles
+2025-11-09 17:25:52,865 - __main__ - INFO - Job 779b0cf4-b19f-4024-abd4-8cee56fa36de created with 4 tiles and transformation: 'edge_detection'
+2025-11-09 17:26:02,876 - __main__ - WARNING - 4 messages not delivered
+2025-11-09 17:26:02,877 - __main__ - INFO - All 4 tasks distributed for job 779b0cf4-b19f-4024-abd4-8cee56fa36de with transformation: 'edge_detection'
+2025-11-09 17:27:05,905 - __main__ - INFO - WebSocket client connected
+2025-11-09 17:27:08,916 - __main__ - WARNING - WebSocket error: received 1001 (going away); then sent 1001 (going away)
+2025-11-09 17:27:08,916 - __main__ - INFO - WebSocket client disconnected
+2025-11-09 17:27:12,936 - __main__ - INFO - ========================================
+2025-11-09 17:27:12,937 - __main__ - INFO - RECEIVED TRANSFORMATION: 'edge_detection'
+2025-11-09 17:27:12,937 - __main__ - INFO - TRANSFORMATION TYPE: <class 'str'>
+2025-11-09 17:27:12,937 - __main__ - INFO - ========================================
+2025-11-09 17:27:12,937 - __main__ - INFO - Image validated: 1024x1024
+2025-11-09 17:27:12,937 - __main__ - INFO - Starting job 494e6b4e-a7d6-401c-9ba7-5e319997c80a for file wp4471357-1024x1024-wallpapers.jpg with transformation: 'edge_detection'
+2025-11-09 17:27:12,937 - __main__ - INFO - Creating 2x2 = 4 tiles with 'edge_detection' transformation
+2025-11-09 17:27:13,251 - __main__ - INFO - Successfully created 4 tiles for job 494e6b4e-a7d6-401c-9ba7-5e319997c80a with transformation 'edge_detection'
+2025-11-09 17:27:13,252 - __main__ - INFO - First tile transformation: 'edge_detection'
+2025-11-09 17:27:13,257 - __main__ - INFO - Job 494e6b4e-a7d6-401c-9ba7-5e319997c80a created with 4 tiles
+2025-11-09 17:27:13,277 - __main__ - INFO - Job 494e6b4e-a7d6-401c-9ba7-5e319997c80a created with 4 tiles and transformation: 'edge_detection'
+2025-11-09 17:27:16,610 - __main__ - INFO - All 4 tasks distributed for job 494e6b4e-a7d6-401c-9ba7-5e319997c80a with transformation: 'edge_detection'
+2025-11-09 17:31:38,073 - __main__ - INFO - WebSocket client connected
+2025-11-09 17:31:41,219 - __main__ - WARNING - WebSocket error: received 1001 (going away); then sent 1001 (going away)
+2025-11-09 17:31:41,220 - __main__ - INFO - WebSocket client disconnected
+2025-11-09 17:35:53,221 - __main__ - WARNING - WebSocket error: sent 1012 (service restart); no close frame received
+2025-11-09 17:35:53,221 - __main__ - INFO - WebSocket client disconnected
+2025-11-09 17:35:54,222 - __main__ - INFO - Master node shutting down
+2025-11-09 17:49:54,959 - __main__ - INFO - Metadata database initialized at master_metadata.db
+2025-11-09 17:49:54,964 - __main__ - INFO - Kafka manager initialized
+2025-11-09 17:49:55,108 - __main__ - INFO - Master node started successfully
+2025-11-09 17:49:55,109 - __main__ - INFO - Starting result consumer task
+2025-11-09 17:49:56,037 - __main__ - ERROR - Error consuming results: Expecting value: line 1 column 1 (char 0)
+2025-11-09 17:49:56,037 - __main__ - INFO - Starting heartbeat consumer task
+2025-11-09 17:50:06,460 - __main__ - INFO - WebSocket client connected
+2025-11-09 17:50:32,531 - __main__ - ERROR - Error consuming results: Expecting value: line 1 column 1 (char 0)
+2025-11-09 17:51:03,482 - __main__ - INFO - ========================================
+2025-11-09 17:51:03,483 - __main__ - INFO - RECEIVED TRANSFORMATION: 'sharpen'
+2025-11-09 17:51:03,483 - __main__ - INFO - TRANSFORMATION TYPE: <class 'str'>
+2025-11-09 17:51:03,483 - __main__ - INFO - ========================================
+2025-11-09 17:51:03,493 - __main__ - INFO - Image validated: 1024x1024
+2025-11-09 17:51:03,494 - __main__ - INFO - Starting job 512be619-f487-439b-b7d0-7709cc5e60c7 for file result_c5d7692b-1a06-451f-b457-0aa29dd8b685(1).png with transformation: 'sharpen'
+2025-11-09 17:51:03,494 - __main__ - INFO - Creating 2x2 = 4 tiles with 'sharpen' transformation
+2025-11-09 17:51:03,988 - __main__ - INFO - Successfully created 4 tiles for job 512be619-f487-439b-b7d0-7709cc5e60c7 with transformation 'sharpen'
+2025-11-09 17:51:03,988 - __main__ - INFO - First tile transformation: 'sharpen'
+2025-11-09 17:51:03,996 - __main__ - INFO - Job 512be619-f487-439b-b7d0-7709cc5e60c7 created with 4 tiles
+2025-11-09 17:51:04,026 - __main__ - INFO - Job 512be619-f487-439b-b7d0-7709cc5e60c7 created with 4 tiles and transformation: 'sharpen'
+2025-11-09 17:51:07,691 - __main__ - INFO - All 4 tasks distributed for job 512be619-f487-439b-b7d0-7709cc5e60c7 with transformation: 'sharpen'
+2025-11-09 17:52:52,649 - __main__ - ERROR - Error consuming results: Expecting value: line 1 column 1 (char 0)
+2025-11-09 17:52:58,961 - __main__ - INFO - ========================================
+2025-11-09 17:52:58,962 - __main__ - INFO - RECEIVED TRANSFORMATION: 'sharpen'
+2025-11-09 17:52:58,963 - __main__ - INFO - TRANSFORMATION TYPE: <class 'str'>
+2025-11-09 17:52:58,963 - __main__ - INFO - ========================================
+2025-11-09 17:52:58,963 - __main__ - INFO - Image validated: 1024x1024
+2025-11-09 17:52:58,963 - __main__ - INFO - Starting job f0a2fda0-0179-4029-8bb1-272076b01ac8 for file wp4471373-1024x1024-wallpapers.jpg with transformation: 'sharpen'
+2025-11-09 17:52:58,963 - __main__ - INFO - Creating 2x2 = 4 tiles with 'sharpen' transformation
+2025-11-09 17:52:59,260 - __main__ - INFO - Successfully created 4 tiles for job f0a2fda0-0179-4029-8bb1-272076b01ac8 with transformation 'sharpen'
+2025-11-09 17:52:59,260 - __main__ - INFO - First tile transformation: 'sharpen'
+2025-11-09 17:52:59,271 - __main__ - INFO - Job f0a2fda0-0179-4029-8bb1-272076b01ac8 created with 4 tiles
+2025-11-09 17:52:59,303 - __main__ - INFO - Job f0a2fda0-0179-4029-8bb1-272076b01ac8 created with 4 tiles and transformation: 'sharpen'
+2025-11-09 17:53:02,479 - __main__ - INFO - All 4 tasks distributed for job f0a2fda0-0179-4029-8bb1-272076b01ac8 with transformation: 'sharpen'
+2025-11-09 17:56:40,236 - __main__ - INFO - Received processed tile: 512be619-f487-439b-b7d0-7709cc5e60c7_tile_3
+2025-11-09 17:56:44,552 - __main__ - INFO - Received processed tile: f0a2fda0-0179-4029-8bb1-272076b01ac8_tile_0
+2025-11-09 17:56:45,318 - __main__ - INFO - Received processed tile: f0a2fda0-0179-4029-8bb1-272076b01ac8_tile_1
+2025-11-09 17:56:48,476 - __main__ - INFO - Received processed tile: f0a2fda0-0179-4029-8bb1-272076b01ac8_tile_2
+2025-11-09 17:56:49,576 - __main__ - INFO - Received processed tile: f0a2fda0-0179-4029-8bb1-272076b01ac8_tile_3
+2025-11-09 17:56:49,577 - __main__ - INFO - Reconstructing image: 1024x1024 from 4 tiles
+2025-11-09 17:56:49,634 - __main__ - INFO - Image reconstruction completed successfully
+2025-11-09 17:56:49,999 - __main__ - INFO - Job f0a2fda0-0179-4029-8bb1-272076b01ac8 status updated to completed
+2025-11-09 17:56:49,999 - __main__ - INFO - Job f0a2fda0-0179-4029-8bb1-272076b01ac8 completed successfully
+2025-11-09 18:08:02,862 - __main__ - INFO - Metadata database initialized at master_metadata.db
+2025-11-09 18:08:02,868 - __main__ - INFO - Kafka manager initialized
+2025-11-09 18:08:02,993 - __main__ - INFO - Master node started successfully
+2025-11-09 18:08:02,994 - __main__ - INFO - Starting result consumer task
+2025-11-09 18:08:03,994 - __main__ - INFO - Starting heartbeat consumer task
+2025-11-09 18:08:08,556 - __main__ - INFO - Master node shutting down
+2025-11-09 18:08:44,091 - __main__ - INFO - Metadata database initialized at master_metadata.db
+2025-11-09 18:08:44,095 - __main__ - INFO - Kafka manager initialized
+2025-11-09 18:08:44,202 - __main__ - INFO - Master node started successfully
+2025-11-09 18:08:44,202 - __main__ - INFO - Starting result consumer task
+2025-11-09 18:08:45,205 - __main__ - INFO - Starting heartbeat consumer task
+2025-11-09 18:08:49,506 - __main__ - INFO - Master node shutting down
+2025-11-09 18:09:21,794 - __main__ - WARNING - WebSocket error: received 1001 (going away); then sent 1001 (going away)
+2025-11-09 18:09:21,795 - __main__ - INFO - WebSocket client disconnected
+2025-11-09 18:09:34,558 - __main__ - INFO - Master node shutting down
+2025-11-09 18:09:41,862 - __main__ - INFO - Metadata database initialized at master_metadata.db
+2025-11-09 18:09:41,867 - __main__ - INFO - Kafka manager initialized
+2025-11-09 18:09:41,963 - __main__ - INFO - Master node started successfully
+2025-11-09 18:09:41,963 - __main__ - INFO - Starting result consumer task
+2025-11-09 18:09:42,993 - __main__ - INFO - Starting heartbeat consumer task
+2025-11-09 18:10:12,523 - __main__ - INFO - WebSocket client connected
+2025-11-09 18:14:20,762 - __main__ - WARNING - WebSocket error: received 1001 (going away); then sent 1001 (going away)
+2025-11-09 18:14:20,762 - __main__ - INFO - WebSocket client disconnected
+2025-11-09 18:14:20,763 - __main__ - INFO - WebSocket client connected
+2025-11-09 18:14:32,412 - __main__ - INFO - WebSocket client connected
+2025-11-09 18:14:33,324 - __main__ - ERROR - Error consuming results: Expecting value: line 1 column 1 (char 0)
+2025-11-09 18:14:33,497 - __main__ - WARNING - WebSocket error: received 1001 (going away); then sent 1001 (going away)
+2025-11-09 18:14:33,498 - __main__ - INFO - WebSocket client disconnected
+2025-11-09 18:14:47,830 - __main__ - INFO - WebSocket client connected
+2025-11-09 18:14:51,951 - __main__ - INFO - ========================================
+2025-11-09 18:14:51,952 - __main__ - INFO - RECEIVED TRANSFORMATION: 'sharpen'
+2025-11-09 18:14:51,953 - __main__ - INFO - TRANSFORMATION TYPE: <class 'str'>
+2025-11-09 18:14:51,953 - __main__ - INFO - ========================================
+2025-11-09 18:14:51,967 - __main__ - INFO - Image validated: 1024x1024
+2025-11-09 18:14:51,968 - __main__ - INFO - Starting job c845d235-e934-4057-9450-3ad2ab94debd for file wp4471373-1024x1024-wallpapers.jpg with transformation: 'sharpen'
+2025-11-09 18:14:51,968 - __main__ - INFO - Creating 2x2 = 4 tiles with 'sharpen' transformation
+2025-11-09 18:14:52,944 - __main__ - INFO - Successfully created 4 tiles for job c845d235-e934-4057-9450-3ad2ab94debd with transformation 'sharpen'
+2025-11-09 18:14:52,946 - __main__ - INFO - First tile transformation: 'sharpen'
+2025-11-09 18:14:52,959 - __main__ - INFO - Job c845d235-e934-4057-9450-3ad2ab94debd created with 4 tiles
+2025-11-09 18:14:53,010 - __main__ - INFO - Job c845d235-e934-4057-9450-3ad2ab94debd created with 4 tiles and transformation: 'sharpen'
+2025-11-09 18:15:01,333 - __main__ - INFO - All 4 tasks distributed for job c845d235-e934-4057-9450-3ad2ab94debd with transformation: 'sharpen'
+2025-11-09 18:15:03,475 - __main__ - WARNING - WebSocket error: received 1001 (going away); then sent 1001 (going away)
+2025-11-09 18:15:03,476 - __main__ - INFO - WebSocket client disconnected
+2025-11-09 18:16:34,211 - __main__ - ERROR - Error consuming results: Expecting value: line 1 column 1 (char 0)
+2025-11-09 18:20:20,665 - __main__ - WARNING - WebSocket error: sent 1012 (service restart); no close frame received
+2025-11-09 18:20:20,667 - __main__ - INFO - WebSocket client disconnected
+2025-11-09 18:20:21,669 - __main__ - INFO - Master node shutting down
