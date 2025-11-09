@@ -4,32 +4,6 @@ A scalable and fault-tolerant system for parallel image processing using Apache 
 
 ---
 
-## 📌 Table of Contents
-
-- [Overview](#overview)
-- [Features](#features)
-- [Technology Stack](#technology-stack)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Configuration](#configuration)
-  - [Master Node Configuration](#master-node-configuration)
-  - [Worker Node Configuration](#worker-node-configuration)
-- [Running the System](#running-the-system)
-  - [Start Kafka](#1-start-kafka)
-  - [Start Master Node](#2-start-master-node)
-  - [Start Worker Nodes](#3-start-worker-nodes)
-- [Usage](#usage)
-  - [Web Interface](#web-interface)
-  - [API Interface](#api-interface)
-- [Image Transformations](#image-transformations)
-- [Monitoring](#monitoring)
-- [Troubleshooting](#troubleshooting)
-- [Performance](#performance)
-- [API Documentation](#api-documentation)
-- [License](#license)
-
----
-
 ## Overview
 
 This project provides a distributed image processing pipeline using Apache Kafka. Images are:
